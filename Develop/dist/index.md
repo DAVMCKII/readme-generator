@@ -1,7 +1,7 @@
 
-# Test Readme
+# Test out Readme Generator
    
-  (https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+  ![Badge](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -13,17 +13,17 @@
    
   
   # Description
-  This is for a homework submission to prove I understand nodee.js.
+  This is a test to see if my reafme generator works properly
   ## Installation
-  npm inquirer.
+  npm inquirer
   ## Usage
-  Answer prompt questions from the commandline and receive a generated readme based on your responses.
+  Type answers into commandline prompt and then receive generated readme
  ## License
  Liscensing provided by GNU APLv3
   ## Contribution
-  David McKinney was the main contributor on this project. If you would like to contribute please contact the email below.
+  David McKinney contributed to this project.
   ## Tests
-  
+  No test code currently.
  
   ## Questions
   
