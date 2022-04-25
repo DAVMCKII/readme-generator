@@ -13,7 +13,7 @@
    
   
   # Description
-  This is a test to see if my reafme generator works properly
+  This project is a readme generator that was created using inquirer. The purpose of the project is to show my skill in using backend technology using Node.js.
   ## Installation
   npm inquirer
   ## Usage
